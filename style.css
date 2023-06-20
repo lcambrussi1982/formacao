@@ -19,9 +19,13 @@ background-color: #FFFFFF;
 }
 
 .cabecalho{
-
-
-
+    height: 20%;
+    width: 95%;
+    padding: 20px;
+    margin: 5px;
+    display: flex;
+    text-align: center;
+    align-items: center;
 }
 
 .imagem_cabecalho{
