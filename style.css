@@ -38,7 +38,7 @@ background-color: #FFFFFF;
     padding: 8px;
     text-shadow: 2px 4px rgba(255, 136, 0, 0.5);
     color: red;
-    float: right;
+   
     }
 
 .imagem_cabecalho{
@@ -50,10 +50,16 @@ background-color: #FFFFFF;
 
 
 .sessao{
+padding: 20px;
+font-size: 14pt;
 
 
 }
 
+
+.item1{
+     font-style: italic;
+}
 .receita1{
 
 }
