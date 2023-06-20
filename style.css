@@ -1,0 +1,41 @@
+*{
+margin: 0px;
+padding: 0px;
+}
+
+body{
+background-color: #dcdcdc;
+
+}
+
+.principal{
+width: 95%;
+height: auto;
+margin: auto;
+padding: 15px;
+box-shadow: 2px 4px rgba(255, 136, 0, 0.5);
+}
+
+.cabecalho{
+
+
+
+}
+
+.imagem_cabecalho{
+
+
+}
+
+
+.titulo{
+text-transform: uppercase;
+background-color: #ff7300;
+color: #FFFFFF;
+padding: 16px;
+}
+
+.direita{
+
+
+}
