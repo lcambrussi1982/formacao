@@ -27,8 +27,16 @@ background-color: #FFFFFF;
     text-align: center;
     align-items: center;
     border-bottom: #dcdcdc solid;
-    
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+
 }
+
+.titulo{
+    text-transform: uppercase;
+    text-align: center;
+    font-size: 24px;
+    padding: 8px;
+    }
 
 .imagem_cabecalho{
 
@@ -36,10 +44,7 @@ background-color: #FFFFFF;
 }
 
 
-.titulo{
-text-transform: uppercase;
-padding: 16px;
-}
+
 
 .sessao{
 
