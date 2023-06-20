@@ -23,7 +23,7 @@ background-color: #FFFFFF;
     width: 95%;
     padding: 20px;
     margin: 5px;
-    display: flex;
+    display: inline-block;
     text-align: center;
     align-items: center;
     border-bottom: #dcdcdc solid;
@@ -38,6 +38,7 @@ background-color: #FFFFFF;
     padding: 8px;
     text-shadow: 2px 4px rgba(255, 136, 0, 0.5);
     color: red;
+    float: right;
     }
 
 .imagem_cabecalho{
